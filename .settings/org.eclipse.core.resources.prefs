@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//WebRoot/templates/mail/zh_CN/activateAccount.txt=UTF-8
+encoding//WebRoot/templates/mail/zh_CN/lostPassword.txt=UTF-8
+encoding/<project>=UTF-8
